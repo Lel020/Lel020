@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm LelBit</h1>
 <h3 align="center">A passionate Java dev from Sydney, Australia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lel020&label=Profile%20views&color=0e75b6&style=flat" alt="lel020" /> </p>
-
 - 📫 How to reach me:  **bobaguard#1001**
 
 <h3 align="left">Languages and Tools:</h3>
