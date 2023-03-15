@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm LelBit</h1>
-<h3 align="center">A passionate Java dev from Sydney, Australia.</h3>
 
 - 📫 How to reach me:  **bobaguard#1001**
 
