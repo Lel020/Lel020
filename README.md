@@ -20,8 +20,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lel020&layout=compact&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="lel020" />
-</p> 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lel020&show_icons=true&hide=contribs" alt="lel020" />
 </p>
