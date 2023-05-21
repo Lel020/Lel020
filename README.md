@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/your_discord_id" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/bobaguard%231001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages/Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="color:#ADD8E6"/> 
