@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Hi, I'm LelBit</h1>
 </div>
-<p align="center">
-  <a href="https://discordapp.com/users/your_discord_id" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/bobaguard%231001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
 <h3 align="center">Languages/Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank"> 
